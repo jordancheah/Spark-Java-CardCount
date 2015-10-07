@@ -3,7 +3,7 @@
 This Java program illustrates how to use Spark to process data in HDFS and write the results back to HDFS.
 
 ## Data File
-The data file is a text file, with each line = <cardnum> <tab> <cardsuit>
+The data file is a text file, with each line = card number, separated by a tab, then card suit.  For example:
 ```
 6    Diamond
 3   Diamond
